@@ -11,7 +11,7 @@
 除了一般的K线、Moving Average线、Trading Volume的Bar Chart以外，我们还可以在mplfinance画出的图上自定义添加内容（如直线、斜线、标记等），只需标记位置即可
 
 示例如下：
-![Image](https://github.com/YZhang0303/Trend_Analysis/blob/main/AAPL_candle_line.jpg?raw=True)
+![Image](https://raw.githubusercontent.com/YZhang0303/Trend_Analysis/main/AAPL_candle_line.jpg)
 
 具体见Trend Analysis_base.ipynb
 
