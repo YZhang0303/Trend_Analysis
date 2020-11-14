@@ -20,5 +20,6 @@
 如果你的github上的图片不显示
 
 解决方法:https://blog.csdn.net/Gladys_Huang/article/details/104360854
+修改一下hosts文件即可
 
 
