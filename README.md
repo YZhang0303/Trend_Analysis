@@ -16,7 +16,7 @@
 具体见Trend Analysis_base.ipynb
 
 
-#如果图片没有正常显示
+# 如果图片没有正常显示
 如果你的github上的图片不显示
 
 解决方法:https://blog.csdn.net/Gladys_Huang/article/details/104360854
